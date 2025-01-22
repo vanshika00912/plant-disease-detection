@@ -1,1 +1,1 @@
-# plant-disease-detection
+The expected outcome of this project is a disease detection system for plants, capable of assisting farmers and agricultural practitioners in the early identification and management of diseases. This has the potential to significantly improve crop yield and overall agricultural productivity while ensuring system health and reducing reliance on manual inspection methods.
